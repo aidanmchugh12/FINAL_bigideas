@@ -14,4 +14,4 @@
 ### - datafile.csv (link)
 
 ## Overview:
-### Finding the best neighborhood in Pittsburgh using metrics such as availability of parks, saftey, and affo
+### Finding the best neighborhood in Pittsburgh using metrics such as availability of parks, saftey, and afforability of housing.
