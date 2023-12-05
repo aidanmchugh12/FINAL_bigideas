@@ -3,7 +3,7 @@
 # Finding the "Best" Neighborhood in Pittsburgh
 ## Team name: EAT (Group # 47)
 ### Members: 
-#### Eli Gach ()
+#### Eli Gach (edg59@pitt.edu)
 #### Aidan McHugh (AQM12@pitt.edu)
 #### Trey Hutson ()
 
